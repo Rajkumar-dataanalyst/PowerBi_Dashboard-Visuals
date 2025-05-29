@@ -58,7 +58,7 @@ It is ideal for business stakeholders and decision-makers who want to explore KP
 
 ### 2️⃣ Page 2: Sales Analysis
 
-![Sales Analysis Page](./2nd_page_dashboard.png)
+![Sales Analysis Page](https://github.com/Rajkumar-dataanalyst/PowerBi_Dashboard-Visuals/blob/main/dashboard_sales_analysis.png?raw=true)
 
 #### ✅ Description:
 - Provides **monthly breakdown** of sales and profit.
