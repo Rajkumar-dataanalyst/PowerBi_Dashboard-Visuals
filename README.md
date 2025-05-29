@@ -79,7 +79,7 @@ It is ideal for business stakeholders and decision-makers who want to explore KP
 
 ### 3️⃣ Page 3: Product Performance
 
-![Product Performance Page](./3rd_page_dashboard.png)
+![Product Performance Page](https://github.com/Rajkumar-dataanalyst/PowerBi_Dashboard-Visuals/blob/main/dashboard_product_performance.png?raw=true)
 
 #### ✅ Description:
 - Analyzes each product's **discount, manufacturing cost, profit contribution**, and **yearly performance**.
