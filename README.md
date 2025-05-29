@@ -37,7 +37,7 @@ It is ideal for business stakeholders and decision-makers who want to explore KP
 
 ### 1️⃣ Page 1: Overview
 
-![Overview Page](./1st_page_dashboard.png)
+![Overview Page](https://github.com/Rajkumar-dataanalyst/PowerBi_Dashboard-Visuals/blob/main/dashboard_overview.png?raw=true)
 
 #### ✅ Description:
 - Shows **high-level metrics** to monitor overall business performance.
