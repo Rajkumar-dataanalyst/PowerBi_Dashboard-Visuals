@@ -98,10 +98,6 @@ It is ideal for business stakeholders and decision-makers who want to explore KP
 
 ---
 
-
-
----
-
 ## ✅ Final Conclusion
 
 This Power BI dashboard project effectively combines **data storytelling** with **actionable insights**. It enables stakeholders to:
